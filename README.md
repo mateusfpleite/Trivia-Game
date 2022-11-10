@@ -5,3 +5,7 @@ A web application that work as a trivia game where you can play multiple times w
 ## Stacks
 
  React, Redux, React Router
+ 
+ ## Deploy link
+ 
+ https://22-trivia-redux.surge.sh/
